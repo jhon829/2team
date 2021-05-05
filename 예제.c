@@ -6,8 +6,8 @@ int main(void) {
 
 
 	//ex
-	int a, b;
+	int a, b,c;
 	a = 10;
 	b = 10;
-	printf("%d", a + b);
-}
+	c = a + b;
+	printf("%d", c);
